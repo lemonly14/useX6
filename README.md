@@ -24,6 +24,7 @@ cd useX6
 src/views/register.ts 注册自定义cell
 
 src/views/useX6.ts 封装方法
+
 ```
 
 - 安装依赖
@@ -32,11 +33,6 @@ src/views/useX6.ts 封装方法
 npm install
 ```
 
-- 给大佬的说明
-
-```
-
-```
 
 - 开发模式运行
 
